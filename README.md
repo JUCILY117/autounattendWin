@@ -3,7 +3,6 @@
 ![Windows Version](https://img.shields.io/badge/Windows-10%2F11-blue.svg)
 ![Automation](https://img.shields.io/badge/Automation-100%25-brightgreen)
 ![Pre-Installed Office](https://img.shields.io/badge/Microsoft%20365-Pre--installed-orange)
-![Optimized](https://img.shields.io/badge/Optimized-Ultra-lightweight-red)
 
 This project provides an **automated Windows installation** that:
 - 🚀 **Installs Windows 10/11 without manual input**
@@ -15,12 +14,12 @@ This project provides an **automated Windows installation** that:
 ---
 
 ## 📖 Table of Contents
-1. [Features](#features)
-2. [How It Works](#how-it-works)
-3. [Setup Instructions](#setup-instructions)
-4. [Modifications](#modifications)
-5. [FAQ](#faq)
-6. [License](#license)
+### 1. [Features](#features)
+### 2. [How It Works](#how-it-works)
+### 3. [Setup Instructions](#setup-instructions)
+### 4. [Modifications](#modifications)
+### 5. [FAQ](#faq)
+### 6. [License](#license)
 
 ---
 
@@ -120,13 +119,12 @@ Want to customize Windows further? Modify autounattend.xml:
 </RunSynchronousCommand>
 ```
 
-### **📜 License**
-## MIT License – Free to use, modify, and distribute.
+## **📜 License**
+### MIT License – Free to use, modify, and distribute.
 🚀 Credits: Chris Titus Tech (WinUtil Tweaks), Microsoft Office Deployment Tool.
 
-###**⭐ Enjoy a Fully Automated, Pre-Optimized Windows Install!**
+## **⭐ Enjoy a Fully Automated, Pre-Optimized Windows Install!**
 🚀 100% Unattended Windows Setup
 🔥 Pre-Installed Office 365
 💨 Ultra-Fast & Bloat-Free
 🖥️ Ready to Use on First Boot!
-
